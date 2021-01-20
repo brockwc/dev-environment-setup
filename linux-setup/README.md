@@ -87,5 +87,5 @@ git config user.email
 
 
 ## Next Up
-* [Install Development Tools](../)
+* [Install Development Tools](https://github.com/brockwc/dev-environment-setup/tree/master/linux-setup/dev-tools)
 
